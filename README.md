@@ -1,6 +1,8 @@
 ![Chaos Labs - Maker Collab](https://github.com/ChaosLabsInc/Maker-Simulations/blob/main/etc/header.png)
 # Maker-Simulations
 
+[Blog Posts](https://chaoslabs.xyz/posts/chaos-labs-maker-simulation-series-pt-0)
+
 This repo contains the Chaos simulation scripts used in the Maker simulations. It doesn't include the execution framework and data and analytic infrastructure of the Chaos Cloud. The Chaos Simulation Cloud handles the execution, orchestration, and processing of the simulation running on dedicated on-demand sandbox Blockchain forks.
 
 The scripts are intentionally written be easily adapted into simple Hardhat/Foundry scripts that can be tested and verified outside the Chaos Cloud.
